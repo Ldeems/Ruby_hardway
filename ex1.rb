@@ -1,3 +1,4 @@
+# is used for comments and is ignored by ruby
 # puts "hello Again"
 puts "I like typing this."
 puts "this is fun."
